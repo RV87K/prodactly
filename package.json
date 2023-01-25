@@ -1,0 +1,20 @@
+{
+  "name": "productly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass sass/style.scss sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RV87K/productly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RV87K/productly/issues"
+  },
+  "homepage": "https://github.com/RV87K/productly#readme"
+}
